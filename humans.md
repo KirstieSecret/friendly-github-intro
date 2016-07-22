@@ -18,6 +18,10 @@
 * Rafael Gafoor - github: [RafaelGafoor]
 * 
 
+
+
+* Kirstie Secret - github: [@KirstieSecret](https://github.com/kirstiesecret)
+
 ## Mozilla Science Lab Fellows
 
 The workshop was originally developed by:
